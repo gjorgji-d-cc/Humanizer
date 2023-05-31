@@ -271,7 +271,7 @@
     <value>{0} milliseconds</value>
   </data>
   <data name="DateHumanize_MultipleDaysAgo_Above20" xml:space="preserve">
-    <value>{0} days ago</value>
+    <value>пред {0} дена</value>
   </data>
   <data name="DateHumanize_MultipleDaysAgo_Dual" xml:space="preserve">
     <value>{0} days ago</value>
