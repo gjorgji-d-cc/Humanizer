@@ -139,7 +139,7 @@
     <value>yesterday</value>
   </data>
   <data name="DateHumanize_MultipleDaysAgo" xml:space="preserve">
-    <value>{0} days ago</value>
+    <value>пред {0} дена</value>
   </data>
   <data name="DateHumanize_SingleMonthAgo" xml:space="preserve">
     <value>one month ago</value>
