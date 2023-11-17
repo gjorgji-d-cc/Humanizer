@@ -40,6 +40,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)Localisation\is\ResourcesTests.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Localisation\is\TimeOnlyHumanizeTests.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Localisation\is\TimeSpanHumanizeTests.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Localisation\mk\DateHumanizeTests.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Localisation\mk\TimeSpanHumanizeTests.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Localisation\pt-BR\TimeToClockNotationTests.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)TimeOnlyHumanizeTests.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)DateTimeHumanizePrecisionStrategyTests.cs" />
